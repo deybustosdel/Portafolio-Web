@@ -3,7 +3,7 @@ Este portafolio es desarrollado para poner en práctica las habilidades obtenida
 
 Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando animaciones de bibliotecas externas.
 
-[Proyecto en linea]
+[Proyecto en linea](https://deybustosdel.github.io/Portafolio-Web/)
 
 - Capturas de pantalla
 ![Sección Yo](assets/YO.png)
